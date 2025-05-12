@@ -34,3 +34,5 @@ Mail hiervoor naar [dataschool@uu.nl](mailto:dataschool.nl)
 Dit werk is gemaakt door Data School van de Universiteit Utrecht. Het mag niet worden gebruikt voor commerciële doeleinden. Het kan worden gebruikt voor niet-commerciële doeleinden. Als je dit werk wilt aanpassen, neem dan contact op met dataschool@uu.nl.
 
 De ontwikkeling van dit werk werd ondersteund door inzichten en financiering van de Rijksinspectie voor Digitale Infrastructuur (RDI), de Nederlandse Voedsel- en Warenautoriteit (NVWA) en de AI Labs van Universiteit Utrecht.
+
+<a href="https://dataschool.nl" target="_blank"><img src="docs/img/UU_Data School_logo_NL_geelwit.jpg" width="400px"></a>
