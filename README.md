@@ -1,5 +1,3 @@
-# Functioneringsgesprek voor AI
-
 ## Handleiding
 
 Beantwoord deze vragen alvorens het doorlopen van het functioneringsgesprek:
