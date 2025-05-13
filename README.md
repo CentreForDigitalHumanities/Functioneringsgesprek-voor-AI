@@ -37,7 +37,7 @@ Het Functioneringsgesprek voor AI is hier te downloaden:
 
 ## License
 
-Dit werk is gemaakt door Data School van de Universiteit Utrecht onder creative commons [CC-BY NC 4.0](https://creativecommons.org/licenses/by/4.0/). Het mag niet worden gebruikt voor commerciële doeleinden. Het kan worden gebruikt voor niet-commerciële doeleinden. Je mag het werk aanpassen, onder de voorwaarden dat je Data School, Universiteit Utrecht noemt als oorspronkelijke auteur en het aan ons laat weten via dataschool@uu.nl.
+Dit werk is gemaakt door Data School van de Universiteit Utrecht onder creative commons [CC-BY NC 4.0](https://github.com/CentreForDigitalHumanities/Functioneringsgesprek-voor-AI/tree/main?tab=CC-BY-4.0-1-ov-file#readme). Het mag niet worden gebruikt voor commerciële doeleinden. Het kan worden gebruikt voor niet-commerciële doeleinden. Je mag het werk aanpassen, onder de voorwaarden dat je Data School, Universiteit Utrecht noemt als oorspronkelijke auteur en het aan ons laat weten via dataschool@uu.nl.
 
 De ontwikkeling van dit werk werd ondersteund door inzichten en financiering van de Rijksinspectie voor Digitale Infrastructuur (RDI), de Nederlandse Voedsel- en Warenautoriteit (NVWA) en de AI Labs van Universiteit Utrecht.
 
