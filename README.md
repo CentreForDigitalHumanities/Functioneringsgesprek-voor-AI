@@ -9,7 +9,7 @@ Beantwoord deze vragen alvorens het doorlopen van het functioneringsgesprek:
 
 ## Introductie
 
-Het Functioneringsgesprek voor een AI is een tool ontwikkeld door Data School van de Universiteit Utrecht, in samenwerking met de Rijksinspectie Digitale Infrastructuur (RDI) en de Nederlandse Voedsel- en Warenautoriteit (NVWA). Het is een instrument om te testen hoe AI in verloop van tijd functioneert. Dit wordt gedaan op basis van 4 dimensies: werkzaamheden, prestaties, organisatie en ontwikkeling.
+Het Functioneringsgesprek voor een AI is een tool ontwikkeld door [Data School](https://dataschool.nl/) van de [Universiteit Utrecht](https://www.uu.nl/), in samenwerking met de Rijksinspectie Digitale Infrastructuur (RDI) en de Nederlandse Voedsel- en Warenautoriteit (NVWA). Het is een instrument om te testen hoe AI in verloop van tijd functioneert. Dit wordt gedaan op basis van 4 dimensies: werkzaamheden, prestaties, organisatie en ontwikkeling.
 
 ## Hoe werkt het functioneringsgesprek?
 
