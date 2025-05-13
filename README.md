@@ -27,7 +27,7 @@ Mail hiervoor naar [dataschool@uu.nl](mailto:dataschool.nl)
 
 Het Functioneringsgesprek voor AI is hier te downloaden:
 
-- [Functioneringsgesprek voor een AI v1.0 UU.csv](https://raw.githubusercontent.com/CentreForDigitalHumanities/Functioneringsgesprek-voor-AI/main/Functioneringsgesprek%20voor%20een%20AI%20v1.0%20UU.csv)
+- [Functioneringsgesprek voor een AI v1.0 UU.csv](https://github.com/CentreForDigitalHumanities/Functioneringsgesprek-voor-AI/blob/main/docs/Functioneringsgesprek%20voor%20een%20AI%20v1.0%20UU.csv)
 
 ## Licentie & credits
 
