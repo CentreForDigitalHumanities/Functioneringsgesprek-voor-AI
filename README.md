@@ -13,11 +13,11 @@ Het Functioneringsgesprek voor een AI is een tool ontwikkeld door Data School va
 
 ## Hoe werkt het functioneringsgesprek?
 
-Het functioneringsgesprek is een vragenlijst bestaande uit 17 vragen, onderverdeeld in vier categorieën. Deze vragen worden doorlopen door de gebruiker van de AI, waarna het ingevulde functioneringsgesprek opgeslagen kan worden als interne documentatie en naar de toezichthouder gestuurd kan worden. De vragen bevatten toelichting om te helpen richting te scheppen in de beantwoording.
+Het functioneringsgesprek is een vragenlijst bestaande uit 17 vragen, onderverdeeld in vier categorieën. Deze vragen worden doorlopen door de gebruiker van de AI, waarna het ingevulde functioneringsgesprek opgeslagen kan worden als interne documentatie en eventueel naar de toezichthouder gestuurd kan worden. De vragen bevatten toelichting om te helpen richting te scheppen in de beantwoording.
  
 ## Wanneer zet ik het functioneringsgesprek in?
 
-Het functioneringsgesprek voor een AI kan worden gezien als een algoritmische versie van een ‘regulier’ functioneringsgesprek: het wordt periodiek ingezet om te beoordelen of de AI over verloop van tijd nog naar behoren functioneert. Het is belangrijk om te benadrukken dat het functioneringsgesprek géén instrument is om van tevoren te bepalen of het algoritme goed inzetbaar is. Het functioneringsgesprek gaat ervan uit dat er al een algoritmisch impact assessment uitgevoerd is, wat dient als de algoritmische versie van het sollicitatiegesprek. Het functioneringsgesprek is een test om over verloop van tijd – en na deze initiële toets – het functioneren van het algoritme te beoordelen. Dit kan bijvoorbeeld elk jaar zijn, of elke twee jaar. Ook kunnen er specifieke trigger events zich aandienen waardoor het inzetten van het functioneringsgesprek als noodzakelijk wordt geacht, naast een vast periodiek moment. Dit kan bijvoorbeeld het geval zijn wanneer de AI niet functioneert zoals verwacht en er afwijkende waarden zijn.
+Het functioneringsgesprek voor een AI kan worden gezien als een ‘regulier’ functioneringsgesprek, maar dan voor algoritmes en AI: het wordt periodiek ingezet om te beoordelen of de AI over verloop van tijd nog naar behoren functioneert. Het is belangrijk om te benadrukken dat het functioneringsgesprek géén instrument is om van tevoren te bepalen of het algoritme goed inzetbaar is. Het functioneringsgesprek gaat ervan uit dat er al een algoritme impact assessment uitgevoerd is, wat dient als de algoritme-versie van het sollicitatiegesprek. Het functioneringsgesprek is een test om over verloop van tijd – en na deze initiële toets – het functioneren van het algoritme te beoordelen. Dit kan bijvoorbeeld elk jaar zijn, of elke twee jaar. Ook kunnen er specifieke trigger events zich aandienen waardoor het inzetten van het functioneringsgesprek als noodzakelijk wordt geacht, naast een vast periodiek moment. Dit kan bijvoorbeeld het geval zijn wanneer de AI niet functioneert zoals verwacht en er afwijkende waarden zijn.
  
 ## Wat doe ik met het ingevulde functioneringsgesprek?
 
@@ -35,7 +35,7 @@ Het Functioneringsgesprek voor AI is hier te downloaden:
 
 ## Licentie & credits
 
-Dit werk is gemaakt door Data School van de Universiteit Utrecht. Het mag niet worden gebruikt voor commerciële doeleinden. Het kan worden gebruikt voor niet-commerciële doeleinden. Als je dit werk wilt aanpassen, neem dan contact op met dataschool@uu.nl.
+Dit werk is gemaakt door Data School van de Universiteit Utrecht onder creative commons CC-BY NC 4.0. Het mag niet worden gebruikt voor commerciële doeleinden. Het kan worden gebruikt voor niet-commerciële doeleinden. Je mag het werk aanpassen, onder de voorwaarden dat je Data School, Universiteit Utrecht noemt als oorspronkelijke auteur en het aan ons laat weten via dataschool@uu.nl.
 
 De ontwikkeling van dit werk werd ondersteund door inzichten en financiering van de Rijksinspectie voor Digitale Infrastructuur (RDI), de Nederlandse Voedsel- en Warenautoriteit (NVWA) en de AI Labs van Universiteit Utrecht.
 
