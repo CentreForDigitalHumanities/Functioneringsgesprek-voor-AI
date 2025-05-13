@@ -27,6 +27,12 @@ Wat als ik het Functioneringsgesprek wil aanpassen om hem geschikter te maken vo
 
 Mail hiervoor naar [dataschool@uu.nl](mailto:dataschool.nl)
 
+## Download
+
+Het Functioneringsgesprek voor AI is hier te downloaden:
+
+- [Functioneringsgesprek voor een AI v1.0 UU.csv](https://raw.githubusercontent.com/CentreForDigitalHumanities/Functioneringsgesprek-voor-AI/main/Functioneringsgesprek%20voor%20een%20AI%20v1.0%20UU.csv)
+
 ## Licentie & credits
 
 Dit werk is gemaakt door Data School van de Universiteit Utrecht. Het mag niet worden gebruikt voor commerciële doeleinden. Het kan worden gebruikt voor niet-commerciële doeleinden. Als je dit werk wilt aanpassen, neem dan contact op met dataschool@uu.nl.
