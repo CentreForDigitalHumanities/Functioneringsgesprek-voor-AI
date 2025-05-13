@@ -1,1 +1,11 @@
+# Ignore everything in .github
+.github/ export-ignore
 
+# Ignore CNAME file in the root
+CNAME export-ignore
+
+# Ignore CNAME in the /docs directory
+docs/CNAME export-ignore
+
+# Ignore everything in /docs/img directory
+docs/img/ export-ignore
